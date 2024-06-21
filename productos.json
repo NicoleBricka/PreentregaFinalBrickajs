@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "titulo": "Leche Entera",
+        "descripcion": "Leche entera, mas calcio y vitamina D por 1 litro.",
+        "precio":1600,
+        "stock": 130,
+        "imagen": "./img/lecheentera.png"
+    },
+    {
+        "id": 2,
+        "titulo": "Pan Integral",
+        "descripcion": "Pan  con harina integral, alto en fibra, 500 g.",
+        "precio": 1200,
+        "stock": 200,
+        "imagen": "./img/panintegral.png"
+    },
+    {
+        "id": 3,
+        "titulo": "Huevos",
+        "descripcion": "Huevos frescos de gallina,  por docena.",
+        "precio": 1300,
+        "stock": 150,
+        "imagen": "./img/huevos.png"
+    },
+    {
+        "id": 4,
+        "titulo": "Arroz Basmati",
+        "descripcion": "Arroz de grano largo y aroma delicado, 1 kg.",
+        "precio": 2400,
+        "stock": 200,
+        "imagen": "./img/arroz.png"
+    },
+    {
+        "id": 5,
+        "titulo": "Aceite de Oliva",
+        "descripcion": " Aceite de oliva, extraído en frío 500 ml.",
+        "precio": 14000,
+        "stock": 75,
+        "imagen": "./img/aceitedeoliva.png"
+    },
+    {
+        "id": 6,
+        "titulo": "Tomates",
+        "descripcion": "Tomates frescos fuente de  antioxidantes por 1 kg.",
+        "precio":1400,
+        "stock": 250,
+        "imagen": "./img/tomatess.png"
+    },
+    {
+        "id": 7,
+        "titulo": "Pechuga de Pollo",
+        "descripcion": "Pechuga de pollo fresca, sin piel por 1 kg.",
+        "precio":4500,
+        "stock": 70,
+        "imagen": "./img/pechugadepollo.png"
+    },
+    {
+        "id": 8,
+        "titulo": "Yogur de frutilla",
+        "descripcion": "Yogur natural, sin azúcar, rico en probióticos 500 g.",
+        "precio": 2000,
+        "stock": 100,
+        "imagen": "./img/yogurdefrutilla.png"
+    },
+    {
+        "id": 9,
+        "titulo": "Zanahorias",
+        "descripcion": "Zanahorias frescas, ricas en vitamina A por 1 kg.",
+        "precio": 1200,
+        "stock": 150,
+        "imagen": "./img/zanahoria.png"
+    },
+    {
+        "id": 10,
+        "titulo": "Pasta Integral",
+        "descripcion": " Pasta con harina integral y fibra, paquete de 450 g.",
+        "precio":1600,
+        "stock": 130,
+        "imagen": "./img/pastaintegral.png"
+    },
+    {
+        "id": 11,
+        "titulo": "Queso Manchego",
+        "descripcion": "Queso español, con una textura firme 400 g.",
+        "precio":3000,
+        "stock": 110,
+        "imagen": "./img/quesomanchego.png"
+    },
+    {
+        "id": 12,
+        "titulo": "Café Intenso",
+        "descripcion": "Café molido de alta calidad por 500 g.",
+        "precio": 8500,
+        "stock": 180,
+        "imagen": "./img/cafeintenso.png"
+    },
+    {
+        "id": 13,
+        "titulo": "chocolate",
+        "descripcion": "Chocolate con porcentaje alto de cacao 150 g.",
+        "precio": 2500,
+        "stock": 120,
+        "imagen": "./img/bañodereposteria.png"
+    },
+    {
+        "id": 14,
+        "titulo": "Cereales aritos",
+        "descripcion": "Cereales ricos en fibra, sin azúcares por 180 g. ",
+        "precio": 3200,
+        "stock": 30,
+        "imagen": "./img/cerealesaritos.png"
+    },
+    {
+        "id": 15,
+        "titulo": "Atún en Conserva",
+        "descripcion": "Atún enlatado en aceite de oliva o en agua. 170 g.",
+        "precio": 3500,
+        "stock": 160,
+        "imagen": "./img/atunenconserva.png"
+    }
+]
